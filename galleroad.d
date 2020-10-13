@@ -1,0 +1,12 @@
+galleroad.o: GalleRoad.c
+galleroad.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+galleroad.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+galleroad.o: GLCD.h
+galleroad.o: DisplayElements.h
+galleroad.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+galleroad.o: C:\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.H
+galleroad.o: C:\Keil\ARM\CMSIS\Include\core_cm3.h
+galleroad.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+galleroad.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+galleroad.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+galleroad.o: C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
