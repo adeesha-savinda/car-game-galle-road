@@ -2,8 +2,6 @@
 *   This is a project by SLIIT 2nd year students for the subject of MBS II          *
 *                                      by                                           *
 *                            Adeesha Savinda de Silva                               *
-*                                Hasitha Devinda                                    *
-*                                 Nisal Padukka                                     *
 *                               26 September 2014                                   *
 /************************************************************************************/
 #include <stdio.h>
