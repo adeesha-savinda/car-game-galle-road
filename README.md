@@ -1,3 +1,4 @@
 # Car Game "Galle Road"
-## Using STM32F7 Discovery Board
-This is a project that has been done using the STM32F7 Discovery board with LPC1768 LCD display
+## Using STM32F427 Discovery Board
+This implementation is done using the 
+![Alt Text](https://gfycat.com/clearcutscaredalpaca)
